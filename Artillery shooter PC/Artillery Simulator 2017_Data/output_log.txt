@@ -1,0 +1,37 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 75Hz; virtual: 3200x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.097328 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.909899 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.192577 ms (FindLiveObjects: 0.021470 ms CreateObjectMapping: 0.015855 ms MarkObjects: 0.151617 ms  DeleteObjects: 0.003303 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3074 -> priority: 1 

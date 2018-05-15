@@ -2,64 +2,42 @@ Initialize engine version: 5.5.0f3 (38b4efef76f0)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Renderer: NVIDIA GeForce GTX 780 Ti (ID=0x100a)
     Vendor:   NVIDIA
-    VRAM:     3072 MB
-    Driver:   21.21.13.7849
+    VRAM:     3039 MB
+    Driver:   23.21.13.8813
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.069 seconds
-Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\miohu_000\Desktop\Artillery shooter\Artillery Simulator 2017 v2_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 75Hz; virtual: 3200x1080 at 0,0
+Platform assembly: D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\git programing\artilerry\AS2k19\Artillery shooter PC\Artillery Simulator 2017 v2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at -1920,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.399455 ms
+UnloadTime: 0.965269 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at MainMenu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.031458 ms
+UnloadTime: 4.288073 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 391.
-Total: 0.235188 ms (FindLiveObjects: 0.028077 ms CreateObjectMapping: 0.015194 ms MarkObjects: 0.187292 ms  DeleteObjects: 0.003963 ms)
+Total: 0.192177 ms (FindLiveObjects: 0.021612 ms CreateObjectMapping: 0.021904 ms MarkObjects: 0.144863 ms  DeleteObjects: 0.003504 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.418517 ms
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 391.
-Total: 0.216360 ms (FindLiveObjects: 0.024113 ms CreateObjectMapping: 0.014864 ms MarkObjects: 0.173088 ms  DeleteObjects: 0.003963 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.413892 ms
-
-Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 747.
-Total: 5.719518 ms (FindLiveObjects: 0.033362 ms CreateObjectMapping: 0.043602 ms MarkObjects: 0.193898 ms  DeleteObjects: 5.448323 ms)
-
-Invalid memory pointer was detected in ThreadsafeLinearAllocator::Deallocate!
- 
-(Filename:  Line: 223)
-
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
- 
-(Filename:  Line: 370)
-
-Invalid memory pointer was detected in ThreadsafeLinearAllocator::Deallocate!
- 
-(Filename:  Line: 223)
-
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
- 
-(Filename:  Line: 370)
-
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 13cc -> priority: 1 
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: e20 -> priority: 1 
+  Thread -> id: 57dc -> priority: 1 
